@@ -34,4 +34,4 @@ The report aims firstly to investigate the Brazilian health care system and to f
 
 ---
 
-## [Other Projects](https://github.com/user689/Data-Analysis-Project)
+## [Other Projects](https://github.com/user689/Data-Analysis-Projects)
