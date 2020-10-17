@@ -11,11 +11,11 @@
 <img src="images/sample_image.png?raw=true"/>
 
 ---
-[Twitter Visualisations](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/twitter_visualization/wrangle_act.html)
+[Twitter Visualizations](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/twitter_visualization/wrangle_report.html)
 
-In this project, we analyze data obtained from a twitter account called 'WerateDogs' which rates dogs on a scale of 10 (usually in a very absurd way). [roject is available on Gihub here.](https://github.com/user689/Data-Analysis-Projects/tree/master/twitter_visualization)
+In this project, we analyze data obtained from a twitter account called 'WerateDogs' which rates dogs on a scale of 10 (usually in a very absurd way). [Full project is available on Gihub.](https://github.com/user689/Data-Analysis-Projects/tree/master/twitter_visualization)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
