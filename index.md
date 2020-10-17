@@ -13,7 +13,9 @@
 ---
 [Twitter Visualizations](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/twitter_visualization/wrangle_act.html)
 
-In this project, we analyze data obtained from a twitter account called 'WerateDogs' which rates dogs on a scale of 10 (usually in a very absurd way). [Full project is available on Gihub.](https://github.com/user689/Data-Analysis-Projects/tree/master/twitter_visualization)
+In this project, we analyze data obtained from a twitter account called 'WerateDogs' which rates dogs on a scale of 10 (usually in a very absurd way).
+
+[Full project on Github.](https://github.com/user689/Data-Analysis-Projects/tree/master/twitter_visualization)
 
 <img src="images/project2.jpg?raw=true"/>
 
