@@ -26,7 +26,7 @@ The report aims firstly to investigate the Brazilian health care system and to f
  - How is the problem (not showing for appointments) distributed accross the locations in Brazil?
  - How is the problem distributed across age and gender of patients?
  
- [Full Prpject on Github](https://github.com/user689/Data-Analysis-Projects/tree/master/medical_records)
+ [Full Project on Github](https://github.com/user689/Data-Analysis-Projects/tree/master/medical_records)
 
 <img src="images/project3.jpg?raw=true"/>
 
