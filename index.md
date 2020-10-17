@@ -26,19 +26,7 @@ The report aims firstly to investigate the Brazilian health care system and to f
  - How is the problem (not showing for appointments) distributed accross the locations in Brazil?
  - How is the problem distributed across age and gender of patients?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+<img src="images/project3.jpg?raw=true"/>
 
 
 
