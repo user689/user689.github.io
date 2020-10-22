@@ -11,6 +11,16 @@
 <img src="images/sample_image.png?raw=true"/>
 
 ---
+[Titanic Survival Prediction](https://www.kaggle.com/mohammadtraboulsi/titanic-survival-prediction)
+
+A Kaggle competition where we use several machine learning models to predict who will survive on the titanic based on their age, gender, ticket price and other factors. 
+The submission has a public score of 0.76 (Top 25%).
+The methods used are exploratory where we apply different types of machine learning models: (Tree Classifier, Adabooost, neural networks, genetic algorithims). In addition to that feature engineering is used to select the most useful features. 
+The current accuracy of the model is around 87%.
+
+<img src="images/titanic.png?raw=true"/>
+
+---
 [Twitter Visualizations](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/twitter_visualization/wrangle_act.html)
 
 In this project, we analyze data obtained from a twitter account called 'WerateDogs' which rates dogs on a scale of 10 (usually in a very absurd way).
