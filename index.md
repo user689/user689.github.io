@@ -20,6 +20,15 @@ In this project, we analyze data obtained from a twitter account called 'WerateD
 <img src="images/project2.jpg?raw=true"/>
 
 ---
+[A/B Testing](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/abtesting/Analyze_ab_test_results_notebook.html)
+
+For this project, we work on understanding the results of an A/B test run by an e-commerce website. The goal is to work through the notebook to help the company understand if they should implement a new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+[Full project on github](https://github.com/user689/Data-Analysis-Projects/blob/master/abtesting/)
+
+<img src="images/probability.png?raw=true"/>
+
+---
 [Medical Records](https://htmlpreview.github.io/?https://github.com/user689/Data-Analysis-Projects/blob/master/medical_records/investigating%20medical%20records.html)
 
 The report aims firstly to investigate the Brazilian health care system and to find a number of factors that can lead to the patient not showing for an appointment. For that, the questions to be answered are as follows:
