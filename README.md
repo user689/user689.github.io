@@ -1,8 +1,10 @@
-## Data Science/Analysis Portfolio
+## Data Science & Analysis Portfolio
 
 ### Introduction
 
-This is a portfolio of my Data Science/Analysis projects. It can be accessed on: http://user689.github.io/
+This repository hosts my Data Science and analytical projects showcased on [my GitHub Pages site](http://user689.github.io/). The portfolio highlights work ranging from exploratory analyses to predictive modeling and dashboard visualizations.
+
+My background blends engineering, statistics and machine learning. I enjoy working on multidisciplinary teams and translating complex problems into actionable insights. You can find additional work and notebook-based projects in the separate repositories listed below.
 
 You can also find me on:
 
@@ -11,4 +13,4 @@ You can also find me on:
 
 ### Other Projects
 
-Most of my public Data Science projects can be found here: https://github.com/user689/Data-Analysis-Projects
+Most of my public Data Science projects can be found here: <https://github.com/user689/Data-Analysis-Projects>
