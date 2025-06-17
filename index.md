@@ -1,5 +1,9 @@
 ## Portfolio
 
+### About Me
+
+I am an aspiring Coastal Engineer and data scientist who enjoys connecting the dots across disciplines. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+
 ---
 
 ### Data Science Projects
@@ -54,3 +58,16 @@ The report aims firstly to investigate the Brazilian health care system and to f
 ---
 
 ## [Other Projects](https://github.com/user689/Data-Analysis-Projects)
+
+### Resume
+[Download a PDF copy](pdf/sample_presentation.pdf)
+
+### Skills
+- Python and pandas for data analysis
+- Machine learning with scikit-learn
+- Data visualization with Matplotlib and Seaborn
+- Coastal engineering background
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/mohammad-traboulsi-22a14a12b/)
+- [Kaggle](https://www.kaggle.com/mohammadtraboulsi)
