@@ -11,4 +11,4 @@ You can also find me on:
 
 ### Other Projects
 
-Most of my public Data Science projects can be found here: https://github.com/user689/Data-Analysis-Projects
+Most of my public Data Science projects can be found here: [Data Analysis Projects](https://github.com/user689/Data-Analysis-Projects)
