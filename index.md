@@ -15,7 +15,7 @@
 
 A Kaggle competition where we use several machine learning models to predict who will survive on the titanic based on their age, gender, ticket price and other factors. 
 The submission has a public score of 0.76 (Top 25%).
-The methods used are exploratory where we apply different types of machine learning models: (Tree Classifier, Adabooost, neural networks, genetic algorithims). In addition to that feature engineering is used to select the most useful features. 
+The methods used are exploratory where we apply different types of machine learning models: (Tree Classifier, AdaBoost, neural networks, genetic algorithms). In addition to that feature engineering is used to select the most useful features. 
 The current accuracy of the model is around 87%.
 
 <img src="images/titanic.png?raw=true"/>
@@ -44,7 +44,7 @@ For this project, we work on understanding the results of an A/B test run by an 
 The report aims firstly to investigate the Brazilian health care system and to find a number of factors that can lead to the patient not showing for an appointment. For that, the questions to be answered are as follows:
 
  - What factors are important for knowing if a patient will show up to an appointment or not?
- - How is the problem (not showing for appointments) distributed accross the locations in Brazil?
+ - How is the problem (not showing for appointments) distributed across the locations in Brazil?
  - How is the problem distributed across age and gender of patients?
  
  [Full Project on Github](https://github.com/user689/Data-Analysis-Projects/tree/master/medical_records)
