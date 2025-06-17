@@ -1,10 +1,12 @@
 title: Mohammad Traboulsi
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
-  I am an aspiring Coastal Engineer/data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+
+  I am a coastal engineer and data scientist with a passion for building data-driven solutions. After completing my engineering degree I pivoted toward analytics, focusing on machine learning models and interactive dashboards. I enjoy bridging the gap between complex technical details and real-world business questions.
   <br><br>
-  <a href="https://www.linkedin.com/in/mohammad-traboulsi-22a14a12b/">View My LinkedIn Profile</a> 
+  Skills: Python, R, SQL, machine learning, statistical modeling and data visualization.
+  <br><br>
+  <a href="https://www.linkedin.com/in/mohammad-traboulsi-22a14a12b/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
